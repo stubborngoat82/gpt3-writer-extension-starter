@@ -1,6 +1,6 @@
 {
   "name": "POEtry Writer",
-  "description": "Write a poem about any question you may have!",
+  "description": "Write a poem about any twitter in the style of POE!",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
@@ -11,7 +11,7 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "Generate blog post"
+    "default_title": "AI generated POEtry"
   },
 
   "permissions":["contextMenus", "tabs", "storage"]
